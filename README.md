@@ -39,5 +39,4 @@ You only need a modern web browser such as:
 5. JavaScript dynamically updates the task list
 
 
-## 📂 Pro
 
